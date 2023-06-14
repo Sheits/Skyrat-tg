@@ -68,6 +68,11 @@
 	sensor_mode = SENSOR_COORDS
 	random_sensor = FALSE
 
+/obj/item/clothing/under/rank/security/peacekeeper/skirt
+	name = "peacekeeper skirt"
+	desc = "A tactical peacekeeper dress, offering an alternative for officers who wish to show a little skin."
+	icon_state = "security_skirt"
+
 /obj/item/clothing/under/rank/security/peacekeeper/tactical
 	name = "tactical peacekeeper uniform"
 	desc = "A tactical peacekeeper uniform, woven with a lightweight layer of kevlar to provide minor ballistic and stab protection."
